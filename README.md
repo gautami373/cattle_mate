@@ -84,6 +84,18 @@ This project helped me practice:
 * Menu-Driven Programming
 * Basic Data Management in C++
 
+
+* <img width="698" height="226" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/75ef9cd0-2949-43fc-961c-04321cfa3336" />
+
+<img width="700" height="268" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/a70356f2-b4b0-497f-9197-0ab1b00d6026" />
+
+
+<img width="642" height="472" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/1c2a8b85-42f8-46fc-b109-2dc2a9bcfc38" />
+
+<img width="668" height="450" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/1af108c5-9f11-41b0-b080-b8a01495eb84" />
+
+
+
 ## 🚀 Future Improvements
 
 * File handling for permanent data storage
@@ -97,6 +109,6 @@ This project helped me practice:
 **Gautami Balaso Kamble**
 
 Computer Science Engineering Student
-
+ 
 
 

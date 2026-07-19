@@ -1,0 +1,58 @@
+```gitignore
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static and Dynamic libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+*.ilk
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# Code::Blocks
+bin/
+obj/
+
+# Dev-C++
+*.layout
+
+# CLion / CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+```

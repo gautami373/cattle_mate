@@ -29,7 +29,7 @@ A simple **C++ console-based application** to manage cattle records. This projec
 Cattle-Management-System/
 │── main.cpp
 │── README.md
-└── screenshots/
+ gitignore
 ```
 
 ## 📊 Cattle Information Stored
@@ -84,7 +84,7 @@ This project helped me practice:
 * Menu-Driven Programming
 * Basic Data Management in C++
 
-
+## screenshots
 * <img width="698" height="226" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/75ef9cd0-2949-43fc-961c-04321cfa3336" />
 
 <img width="700" height="268" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/a70356f2-b4b0-497f-9197-0ab1b00d6026" />
